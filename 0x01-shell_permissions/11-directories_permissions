@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 222 -d -- */
+chmod 222 -d -- */
