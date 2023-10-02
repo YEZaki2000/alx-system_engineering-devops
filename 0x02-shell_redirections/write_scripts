@@ -1,0 +1,24 @@
+#!/bin/bash
+touch 0-hello_world 
+touch 1-confused_smiley
+touch 2-hellofile
+touch 3-twofiles
+touch 4-lastlines
+touch 5-firstlines
+touch 6-third_line
+touch 7-file
+touch 8-cwd_state
+touch 9-duplicate_last_line
+touch 10-no_more_js
+touch 11-directories
+touch 12-newest_files
+touch 13-unique
+touch 14-findthatword
+touch 15-countthatword
+touch 16-whatsnext
+touch 17-hidethisword
+touch 18-letteronly
+touch 19-AZ
+touch 20-hiago
+touch 21-reverse
+touch 22-users_and_homes
